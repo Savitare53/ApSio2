@@ -118,7 +118,7 @@
                   <div class="service-time one" style="background:#2895f1;">
                      <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
                      <h3>Emergency Case</h3>
-                     <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+                     <p>Notre service vous permet d'avoir vos organes fabriqué ainsi que livrer sous 24h.</p>
                   </div>
                </div>
             </div>
@@ -141,7 +141,8 @@
                   <div class="service-time three" style="background:#0060b1;">
                      <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
                      <h3>Clinic Timetable</h3>
-                     <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+                     <p>8h - 20h  7j/7 </p>
+                     <p>Notre clinique est ouvert tous les jours de 8h a 20 h . </p>
                   </div>
                </div>
             </div>
@@ -157,8 +158,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="message-box">
-                     <h4>What We Do</h4>
-                     <h2>Clinic Service</h2>
+                     <h4>Que fait-on </h4>
+                     <h2> Services proposés</h2>
                      <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
                      <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  </p>
                      <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Learn More</a>
@@ -169,7 +170,7 @@
                <div class="col-md-4 col-xs-8">
                   <div class="post-media wow fadeIn">
                      <img src="images/about_03.jpg" alt="" class="img-responsive">
-                     <a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
+                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
                   </div>
                   <!-- end media -->
                </div>
@@ -184,7 +185,7 @@
                         <a href="images/clinic_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="images/clinic_01.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Digital Control Center</h3>
+                     <h3>Centre de controle</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -194,7 +195,7 @@
                         <a href="images/clinic_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="images/clinic_02.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Hygienic Operating Room</h3>
+                     <h3>Salle d'Opération</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -204,7 +205,7 @@
                         <a href="images/clinic_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="images/clinic_03.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Specialist Physicians</h3>
+                     <h3>Specialiste</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -224,42 +225,42 @@
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon1.png" alt="#" /></span>
-                           <h4>PREMIUM FACILITIES</h4>
+                           <h4>installation haut de gamme</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon2.png" alt="#" /></span>
-                           <h4>LARGE LABORATORY</h4>
+                           <h4>Laboratoir qualifié</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon3.png" alt="#" /></span>
-                           <h4>DETAILED SPECIALIST</h4>
+                           <h4>Spécialiste</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon4.png" alt="#" /></span>
-                           <h4>CHILDREN CARE CENTER</h4>
+                           <h4>Pédiatrie</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon5.png" alt="#" /></span>
-                           <h4>FINE INFRASTRUCTURE</h4>
+                           <h4>Infrastructure de qualité</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon6.png" alt="#" /></span>
-                           <h4>ANYTIME BLOOD BANK</h4>
+                           <h4>Sang disponible tous le temps</h4>
                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
                         </div>
                      </div>
@@ -267,14 +268,14 @@
                </div>
                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                   <div class="appointment-form">
-                     <h3><span>+</span> Book Appointment</h3>
+                     <h3><span>+</span> Agenda</h3>
                      <div class="form">
                         <form action="index.html">
                            <fieldset>
                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                  <div class="row">
                                     <div class="form-group">
-                                       <input type="text" id="name" placeholder="Your Name"  />
+                                       <input type="text" id="name" placeholder="Votre Nom"  />
                                     </div>
                                  </div>
                               </div>
@@ -289,16 +290,33 @@
                                  <div class="row">
                                     <div class="form-group">
                                        <select class="form-control">
-                                          <option>Day</option>
-                                          <option>Sunday</option>
-                                          <option>Monday</option>
+                                          <option>Jour</option>
+                                          <option>Lundi</option>
+                                          <option>Mardi</option>
+                                          <option>Mercredi</option>
+                                          <option>Jeudi</option>
+                                          <option>Vendredi</option>
+                                          <option>Samedi</option>
+                                          <option>Dimanche</option>
+
                                        </select>
                                     </div>
                                     <div class="form-group">
                                        <select class="form-control">
-                                          <option>Time</option>
-                                          <option>AM</option>
-                                          <option>PM</option>
+                                          <option>Heure</option>
+                                          <option> 8:00 AM</option>
+                                          <option> 9:00 AM</option>
+                                          <option>10:00 AM</option>
+                                          <option>11:00 AM</option>
+                                          <option>12:00 PM</option>
+                                          <option>13:00 PM</option>
+                                          <option>14:00 PM</option>
+                                          <option>15:00 PM</option>
+                                          <option>16:00 PM</option>
+                                          <option>17:00 PM</option>
+                                          <option>18:00 PM</option>
+                                          <option>19:00 PM</option>
+                                          <option>20:00 PM</option>
                                        </select>
                                     </div>
                                  </div>
@@ -307,9 +325,10 @@
                                  <div class="row">
                                     <div class="form-group">
                                        <select class="form-control">
-                                          <option>Doctor Name</option>
-                                          <option>Mr.XYZ</option>
-                                          <option>Mr.ABC</option>
+                                          <option>Docteur</option>
+                                          <option>Mr.Trenteseaux</option>
+                                          <option>Mr.Levasseur</option>
+                                          <option>Mr.Vezie</option>
                                        </select>
                                     </div>
                                  </div>
@@ -324,7 +343,7 @@
                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                  <div class="row">
                                     <div class="form-group">
-                                       <div class="center"><button type="submit">Submit</button></div>
+                                       <div class="center"><button type="submit">Envoyer</button></div>
                                     </div>
                                  </div>
                               </div>
@@ -354,7 +373,7 @@
                         <img src="" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Corentin Levasseur</h3>
-                            <small>Clinic Owner</small>
+                            <small>Propriétaire de la clinique</small>
                         </div>
                         <!-- end title -->
                         <p></p>
@@ -373,10 +392,10 @@
                         <img src="" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Pacome Vezie</h3>
-                            <small>Internal Diseases</small>
+                            <small>Expert maladie interne</small>
                         </div>
                         <!-- end title -->
-                        <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
+                        <p>Bonjour je suis Pacome spécialiste en maladie interne</p>
 
                         <div class="footer-social">
                             <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
@@ -392,10 +411,10 @@
                         <img src="" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Leo Trentesaux</h3>
-                            <small>Orthopedics Expert</small>
+                            <small>Expert Orthopedique</small>
                         </div>
                         <!-- end title -->
-                        <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
+                        <p>Bonjour je suis Léo , spécialiste dans le domaine Orthopédique</p>
 
                         <div class="footer-social">
                             <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
@@ -418,7 +437,7 @@
          <div class="container">
             <div class="heading">
                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
-               <h2>Testimonials</h2>
+               <h2>Commentaire</h2>
             </div>
             <!-- end title -->
             <div class="row">
