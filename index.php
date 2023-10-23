@@ -117,7 +117,7 @@
                <div class="row">
                   <div class="service-time one" style="background:#2895f1;">
                      <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
-                     <h3>Emergency Case</h3>
+                     <h3>Cas d'urgence</h3>
                      <p>Notre service vous permet d'avoir vos organes fabriqué ainsi que livrer sous 24h.</p>
                   </div>
                </div>
@@ -140,7 +140,7 @@
                <div class="row">
                   <div class="service-time three" style="background:#0060b1;">
                      <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
-                     <h3>Clinic Timetable</h3>
+                     <h3>emploi du temps</h3>
                      <p>8h - 20h  7j/7 </p>
                      <p>Notre clinique est ouvert tous les jours de 8h a 20 h . </p>
                   </div>
@@ -152,7 +152,7 @@
          <div class="container">
             <div class="heading">
                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
-               <h2>The Specialist Clinic</h2>
+               <h2>Clinique spécialisée</h2>
             </div>
             <!-- end title -->
             <div class="row">
@@ -160,9 +160,9 @@
                   <div class="message-box">
                      <h4>Que fait-on </h4>
                      <h2> Services proposés</h2>
-                     <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
-                     <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  </p>
-                     <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Learn More</a>
+                   
+                     <p>  "La clinique NanoBio Organics est dévouée à offrir des soins de santé de qualité et une gamme complète de services médicaux pour répondre aux besoins de nos patients. Notre équipe de professionnels de la santé hautement qualifiés et attentionnés est déterminée à vous offrir des soins personnalisés et à vous guider vers une meilleure santé et un bien-être durable. </p>
+                     <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Apprendre plus</a>
                   </div>
                   <!-- end messagebox -->
                </div>
@@ -226,42 +226,42 @@
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon1.png" alt="#" /></span>
                            <h4>installation haut de gamme</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>"Nos installations haut de gamme incarnent l'excellence, l'innovation et le luxe, offrant une expérience exceptionnelle à nos clients. À Nanobio Organics, nous croyons en la recherche constante de la perfection et de l'élégance, ce qui se reflète dans chaque détail de nos installations.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon2.png" alt="#" /></span>
-                           <h4>Laboratoir qualifié</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <h4>Laboratoire qualifié</h4>
+                           <p>"Nos laboratoires qualifiés incarnent l'excellence scientifique, la précision et l'engagement envers la qualité. À NanoBio Organics, nous nous efforçons de maintenir les plus hauts standards en matière de recherche, d'analyse et de développement, ce qui se traduit par des services inégalés pour nos clients.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon3.png" alt="#" /></span>
                            <h4>Spécialiste</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>"Les spécialistes de la clinique NanoBio Organics incarnent l'excellence médicale, l'expertise et l'engagement envers la santé de nos patients. Notre équipe de spécialistes hautement qualifiés est déterminée à fournir des soins de première classe, à diagnostiquer et à traiter une gamme diversifiée de conditions médicales, tout en plaçant le bien-être du patient au premier plan.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon4.png" alt="#" /></span>
                            <h4>Pédiatrie</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>La pédiatrie à la clinique Nanobio Organics incarne la dévotion à la santé et au bien-être des enfants. Notre équipe de pédiatres dévoués et hautement qualifiés est engagée à fournir des soins médicaux complets pour les nourrissons, les enfants et les adolescents. Nous comprenons l'importance de la santé de vos enfants et nous sommes là pour les aider à grandir en bonne santé et heureux.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon5.png" alt="#" /></span>
                            <h4>Infrastructure de qualité</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>"Les infrastructures de qualité à la clinique Nano bio Organics incarnent notre engagement envers l'excellence médicale et le confort des patients. Notre établissement a été conçu pour offrir un environnement de soins de santé de premier ordre, mettant l'accent sur la sécurité, la technologie de pointe et le bien-être des patients.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="images/service-icon6.png" alt="#" /></span>
                            <h4>Sang disponible tous le temps</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>À la clinique NanoBio Organics, nous sommes fiers d'offrir des soins de santé à votre service en tout temps. Nous comprenons que les besoins médicaux ne se limitent pas aux horaires de bureau, c'est pourquoi nous nous engageons à être disponibles 24 heures sur 24, 7 jours sur 7, pour prendre soin de votre santé, à tout moment.</p>
                         </div>
                      </div>
                   </div>
@@ -336,7 +336,7 @@
                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                  <div class="row">
                                     <div class="form-group">
-                                       <textarea rows="4" id="textarea_message" class="form-control" placeholder="Your Message..."></textarea>
+                                       <textarea rows="4" id="textarea_message" class="form-control" placeholder="Votre Message"></textarea>
                                     </div>
                                  </div>
                               </div>
@@ -376,7 +376,7 @@
                             <small>Propriétaire de la clinique</small>
                         </div>
                         <!-- end title -->
-                        <p></p>
+                        <p>Bonjour , je suis Corentin propriétaire de la clinique </p>
 
                         <div class="footer-social">
                             <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
