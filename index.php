@@ -373,10 +373,10 @@
                         <img src="" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Corentin Levasseur</h3>
-                            <small>Propriétaire de la clinique</small>
+                            <small>Stagiaire</small>
                         </div>
                         <!-- end title -->
-                        <p>Bonjour , je suis Corentin propriétaire de la clinique </p>
+                        <p>Bonjour , je suis Corentin le stagiaire de la clinique </p>
 
                         <div class="footer-social">
                             <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
