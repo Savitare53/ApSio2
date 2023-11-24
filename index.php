@@ -431,22 +431,7 @@
 	
 	  
 
-               </div>
  
-            </div>
-            <!-- end row -->
-            <hr class="invis">
-            <div class="row">
-               <div class="col-md-6 col-sm-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
-                  <div class="testimonial clearfix">
-                     <div class="desc">
-                        <h3><i class="fa fa-quote-left"></i> The amazing clinic! Wonderful Support!</h3>
-                        <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                     </div>
-                     <div class="testi-meta">
-                        <img src="images/testi_03.png" alt="" class="img-responsive alignleft">
-                        <h4>Amanda DOE <small>- Manager of Racer</small></h4>
-                     </div>
                      <!-- end testi-meta -->
                   </div>
                   <!-- end testimonial -->
