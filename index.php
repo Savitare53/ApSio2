@@ -71,8 +71,8 @@
                         <li><a data-scroll href="#about">A propos</a></li>
                         <li><a data-scroll href="#service">Services</a></li>
                         <li><a data-scroll href="#doctors">Fondateurs</a></li>
-                        <li><a data-scroll href="#price">organes</a></li>
-						<li><a data-scroll href="#testimonials">Commentaire</a></li>
+                        <li><a data-scroll href="#price">produits</a></li>
+						<li><a data-scroll href="#testimonials">Commande</a></li>
                         <li><a data-scroll href="#getintouch">Contact</a></li>
                      </ul>
                   </div>
@@ -428,49 +428,11 @@
             </div><!-- end row -->
         </div><!-- end container -->
     </div>
+	
 	  
-	  
-	  
-	  <!-- end doctor section -->
-	  
-      <div id="testimonials" class="section wb wow fadeIn">
-         <div class="container">
-            <div class="heading">
-               <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
-               <h2>Commentaire</h2>
-            </div>
-            <!-- end title -->
-            <div class="row">
-               <div class="col-md-6 col-sm-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                  <div class="testimonial clearfix">
-                     <div class="desc">
-                        <h3><i class="fa fa-quote-left"></i> The amazing clinic! Wonderful Support!</h3>
-                        <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                     </div>
-                     <div class="testi-meta">
-                        <img src="images/testi_01.png" alt="" class="img-responsive alignleft">
-                        <h4>James Fernando <small>- Manager of Racer</small></h4>
-                     </div>
-                     <!-- end testi-meta -->
-                  </div>
-                  <!-- end testimonial -->
+
                </div>
-               <!-- end col -->
-               <div class="col-md-6 col-sm-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
-                  <div class="testimonial clearfix">
-                     <div class="desc">
-                        <h3><i class="fa fa-quote-left"></i> Thanks for Help us!</h3>
-                        <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                     </div>
-                     <div class="testi-meta">
-                        <img src="images/testi_02.png" alt="" class="img-responsive alignleft">
-                        <h4>Andrew Atkinson <small>- Life Manager</small></h4>
-                     </div>
-                     <!-- end testi-meta -->
-                  </div>
-                  <!-- end testimonial -->
-               </div>
-               <!-- end col -->
+ 
             </div>
             <!-- end row -->
             <hr class="invis">
