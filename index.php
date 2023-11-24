@@ -432,31 +432,8 @@
 	  
 
  
-                     <!-- end testi-meta -->
-                  </div>
-                  <!-- end testimonial -->
-               </div>
-               <!-- end col -->
-               <div class="col-md-6 col-sm-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-                  <div class="testimonial clearfix">
-                     <div class="desc">
-                        <h3><i class="fa fa-quote-left"></i> Thanks for Help us!</h3>
-                        <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                     </div>
-                     <div class="testi-meta">
-                        <img src="images/testi_01.png" alt="" class="img-responsive alignleft">
-                        <h4>Martin Johnson <small>- Founder of Goosilo</small></h4>
-                     </div>
-                     <!-- end testi-meta -->
-                  </div>
-                  <!-- end testimonial -->
-               </div>
-               <!-- end col -->
-            </div>
-            <!-- end row -->
-         </div>
-         <!-- end container -->
-      </div>
+
+   
       <!-- end section -->
       <div id="getintouch" class="section wb wow fadeIn" style="padding-bottom:0;">
          <div class="container">
