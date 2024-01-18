@@ -1,0 +1,116 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello ServicesController!{% endblock %}
+
+{% block main %}
+<div class="row">
+               <div class="col-md-6">
+                  <div class="message-box">
+                     <h4>Que fait-on </h4>
+                     <h2> Services proposés</h2>
+                   
+                     <p>  "La clinique NanoBio Organics est dévouée à offrir des soins de santé de qualité et une gamme complète de services médicaux pour répondre aux besoins de nos patients. Notre équipe de professionnels de la santé hautement qualifiés et attentionnés est déterminée à vous offrir des soins personnalisés et à vous guider vers une meilleure santé et un bien-être durable. </p>
+                     <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Apprendre plus</a>
+                  </div>
+                  <!-- end messagebox -->
+               </div>
+               <!-- end col -->
+               <div class="col-md-4 col-xs-8">
+                  <div class="post-media wow fadeIn">
+                     <img src="images/about_03.jpg" alt="" class="img-responsive">
+                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+            <hr class="hr1">
+            <div class="row">
+               <div class="col-md-4 col-sm-9 col-xs-8">
+                  <div class="service-widget">
+                     <div class="post-media wow fadeIn">
+                        <a href="{# {url(images/clinic_01.jpg)} #}" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="{{ asset('asset/images/clinic_01.jpg') }}" alt="" class="img-responsive" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink">
+                     </div>
+                     <h3>Centre de controle</h3>
+                  </div>
+                  <!-- end service -->
+               </div>
+               <div class="col-md-4 col-sm-9 col-xs-8">
+                  <div class="service-widget">
+                     <div class="post-media wow fadeIn">
+                        <a href="images/clinic_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="{{asset('asset/images/clinic_02.jpg') }}" alt="" class="img-responsive">
+                     </div>
+                     <h3>Salle d'Opération</h3>
+                  </div>
+                  <!-- end service -->
+               </div>
+               <div class="col-md-4 col-sm-9 col-xs-8">
+                  <div class="service-widget">
+                     <div class="post-media wow fadeIn">
+                        <a href="images/clinic_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="{{asset('asset/images/clinic_03.jpg') }}" alt="" class="img-responsive">
+                     </div>
+                     <h3>Specialiste</h3>
+                  </div>
+                  <!-- end service -->
+               </div>
+              
+                  <!-- end service -->
+               </div>
+            </div>
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <div id="service" class="services wow fadeIn">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+                  <div class="inner-services">
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{asset('asset/images/service-icon1.png')}}" alt="#" /></span>
+                           <h4>installation haut de gamme</h4>
+                           <p>"Nos installations haut de gamme incarnent l'excellence, l'innovation et le luxe, offrant une expérience exceptionnelle à nos clients. À Nanobio Organics, nous croyons en la recherche constante de la perfection et de l'élégance, ce qui se reflète dans chaque détail de nos installations.</p>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{ asset('asset/images/service-icon2.png')}}" alt="" /></span>
+                           <h4>Laboratoire qualifié</h4>
+                           <p>"Nos laboratoires qualifiés incarnent l'excellence scientifique, la précision et l'engagement envers la qualité. À NanoBio Organics, nous nous efforçons de maintenir les plus hauts standards en matière de recherche, d'analyse et de développement, ce qui se traduit par des services inégalés pour nos clients.</p>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{asset('asset/images/service-icon3.png') }}" alt="#" /></span>
+                           <h4>Spécialiste</h4>
+                           <p>"Les spécialistes de la clinique NanoBio Organics incarnent l'excellence médicale, l'expertise et l'engagement envers la santé de nos patients. Notre équipe de spécialistes hautement qualifiés est déterminée à fournir des soins de première classe, à diagnostiquer et à traiter une gamme diversifiée de conditions médicales, tout en plaçant le bien-être du patient au premier plan.</p>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{ asset('asset/images/service-icon4.png')}}" alt="" /></span>
+                           <h4>Pédiatrie</h4>
+                           <p>La pédiatrie à la clinique Nanobio Organics incarne la dévotion à la santé et au bien-être des enfants. Notre équipe de pédiatres dévoués et hautement qualifiés est engagée à fournir des soins médicaux complets pour les nourrissons, les enfants et les adolescents. Nous comprenons l'importance de la santé de vos enfants et nous sommes là pour les aider à grandir en bonne santé et heureux.</p>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{ asset('asset/images/service-icon5.png')}}" alt="" /></span>
+                           <h4>Infrastructure de qualité</h4>
+                           <p>"Les infrastructures de qualité à la clinique Nano bio Organics incarnent notre engagement envers l'excellence médicale et le confort des patients. Notre établissement a été conçu pour offrir un environnement de soins de santé de premier ordre, mettant l'accent sur la sécurité, la technologie de pointe et le bien-être des patients.</p>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="serv">
+                           <span class="icon-service"><img src="{{asset('asset/images/service-icon6.png')}}" alt="sss" /></span>
+                           <h4>Sang disponible tous le temps</h4>
+                           <p>À la clinique NanoBio Organics, nous sommes fiers d'offrir des soins de santé à votre service en tout temps. Nous comprenons que les besoins médicaux ne se limitent pas aux horaires de bureau, c'est pourquoi nous nous engageons à être disponibles 24 heures sur 24, 7 jours sur 7, pour prendre soin de votre santé, à tout moment.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+{% endblock %}

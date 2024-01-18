@@ -1,0 +1,63 @@
+
+<header>
+         <div class="header-top wow fadeIn">
+            <div class="container">
+              <div style="display : flex"><div style="border:1px solid red"> <a class="navbar-brand" href="index.html"><img src="{{ asset('asset/images/logo2.png') }}" alt="image"></a></div><div style="border:1px solid red" class = "logo">NanoBio</div></div>
+               <div class="right-header">
+                  <div class="header-info">
+                     <div class="info-inner">
+                        <span class="icontop"><img src="{{ asset('asset/images/phone-icon.png') }}" alt="#"></span>
+                        <span class="iconcont"><a href="tel:800 123 456">800 123 456</a></span>	
+                     </div>
+                     <div class="info-inner">
+                        <span class="icontop"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                        <span class="iconcont"><a data-scroll href="mailto:info@yoursite.com">nanobio0rganics.com</a></span>	
+                     </div>
+                     <div class="info-inner">
+                        <span class="icontop"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
+                        <span class="iconcont"><a data-scroll href="#">Daily: 00:01am - 00:00pm</a></span>	
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="header-bottom wow fadeIn">
+            <div class="container">
+               <nav class="main-menu">
+                  <div class="navbar-header">
+                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i class="fa fa-bars" aria-hidden="true"></i></button>
+                  </div>
+				  
+                  <div id="navbar" class="navbar-collapse collapse">
+                     
+                     <ul class="nav navbar-nav">
+                        
+                        <li><a class="active" href="{{ path('accueil.index')}}">Accueil</a></li>
+                        <li><a data-scroll href="{{ path('apropos.index')}}">A propos</a></li>
+                        <li><a data-scroll href="{{ path('services.index')}}">Services</a></li>
+                       {# <li><a data-scroll href="{{ path('produits.index')}}">produits</a></li>#}
+						{#<li><a data-scroll href="{{ path('commandes.index')}}">Commande</a></li>#}
+
+                  {% if app.session.get('produitTotal','0') != 0%}
+                      ({{ app.session.get('produitTotal','0')}})
+                      {% endif %}
+                        <li><a data-scroll href="{{ path('contact.index')}}">Contact</a></li>
+                     </ul>
+                  </div>
+               </nav>
+               <div class="search-bar">
+                  <div id="custom-search-input">
+                     <div class="input-group col-md-12">
+                        <input type="text" class="form-control input-lg" placeholder="Search" />
+                        <span class="input-group-btn">
+                        <button class="btn btn-info btn-lg" type="button">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        </button>
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      

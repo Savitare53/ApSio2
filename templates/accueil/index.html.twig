@@ -1,0 +1,45 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}AccueilController!{% endblock %}
+
+{% block main %}
+
+       <div id="time-table" class="time-table-section">
+         <div class="container" style="margin-top:272px">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <div class="row">
+                  <div class="service-time one" style="background:#2895f1;">
+                     <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
+                     <h3>Cas d'urgence</h3>
+                     <p>Notre service vous permet d'avoir vos organes fabriqué ainsi que livrer sous 24h.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <div class="row">
+                  <div class="service-time middle" style="background:#0071d1;">
+                     <span class="info-icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span> 
+                     <h3>Heures de Travail </h3>
+                     <div class="time-table-section">
+                        <ul>
+                           <li><span class="left">Lundi - Dimanche</span><span class="right">24/24h</span></li>
+                          <p>Trois équipes se succède pour pouvoir repondre a la demande le plus vite possible</p>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <div class="row">
+                  <div class="service-time three" style="background:#0060b1;">
+                     <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
+                     <h3>emploi du temps</h3>
+                     <p>8h - 20h  7j/7 </p>
+                     <p>Notre clinique est ouvert tous les jours de 8h a 20 h . </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+{% endblock %}

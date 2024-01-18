@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Commandes{% endblock %}
+
+{% block main %}
+{{app.session.get('produitTotal',0)}}
+
+
+{% endblock %}

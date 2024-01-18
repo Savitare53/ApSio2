@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}NanoBio : Contact{% endblock %}
+
+{% block main %}PAGES CONTACT
+    {% if message is not null %}
+        <p>
+            {{ message }}
+            
+        </p>
+        
+    {% else %}
+        {{form(formulaire)}}
+    {% endif %}
+{% endblock %}
